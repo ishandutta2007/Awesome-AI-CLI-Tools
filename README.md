@@ -91,6 +91,7 @@ Explore the top open-source AI CLI utilities, coding assistants, and local model
 | **[AIChat](https://github.com/sigoden/aichat)** | [![GitHub_Stars](https://img.shields.io/github/stars/sigoden/aichat?style=social&color=white)](https://github.com/sigoden/aichat/stargazers) | 🦀 Ultra-fast, all-in-one CLI tool written in Rust featuring interactive REPL, shell assistant, role definitions, and support for 20+ model providers and local endpoints. |
 | **[Mods](https://github.com/charmbracelet/mods)** | [![GitHub_Stars](https://img.shields.io/github/stars/charmbracelet/mods?style=social&color=white)](https://github.com/charmbracelet/mods/stargazers) | ✨ AI for the command line built by Charm, designed specifically for terminal pipelines (`stdout | mods`), formatting markdown responses, and prompt management. |
 | **[gptme](https://github.com/gptme/gptme)** | [![GitHub_Stars](https://img.shields.io/github/stars/gptme/gptme?style=social&color=white)](https://github.com/gptme/gptme/stargazers) | 🦾 Terminal-first autonomous personal assistant with shell execution, file manipulation, Python REPL, and web browser capabilities. |
+| **[SandBase CLI](https://github.com/sandbaseai/cli)** | [![GitHub_Stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social&color=white)](https://github.com/sandbaseai/cli/stargazers) | Terminal CLI and local MCP bridge for discovering and calling AI models and data APIs. Includes client configuration checks and rollback. |
 
 ---
 
